@@ -9,7 +9,7 @@ app.use(express.static('dist'))
 app.get('/version', (req, res) => {
   res
     .status(200)
-    .send('6.9.69') // change this string to ensure a new version deployed
+    .send('asdasd') // change this string to ensure a new version deployed
     .end()
 })
 
