@@ -1,2 +1,4 @@
 dist/
 node_modules/
+heroku_key_and_stuff
+cypress
