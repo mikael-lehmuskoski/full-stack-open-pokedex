@@ -38,6 +38,6 @@ jobs:
           heroku_app_name: "part11"
           heroku_email: "mikael.lehmuskoski@protonmail.com"
           healthcheck: "https://part11.herokuapp.com/version"
-          checkstring: "6.9.69"
+          checkstring: "asd"
           delay: 5
           rollbackonhealthcheckfailed: true
