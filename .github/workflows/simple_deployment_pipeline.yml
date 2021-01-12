@@ -8,6 +8,8 @@ on:
     branches: [master]
     types: [opened, synchronize]
 
+    ## this is a change
+
 jobs:
   simple_deployment_pipeline:
     runs-on: ubuntu-18.04
