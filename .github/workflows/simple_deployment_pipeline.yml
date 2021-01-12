@@ -9,6 +9,7 @@ on:
     types: [opened, synchronize]
 
     ## this is a change
+    ## another terrifying change
 
 jobs:
   simple_deployment_pipeline:
